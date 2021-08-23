@@ -1,0 +1,7 @@
+OS: Mac
+Install Homebrew : /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Install Hadoop 3.3.0
+ 1) brew install hadoop : This will install latest Hadoop
+ 2) hadoop version : Will display version of the installed Hadoop
+ 
+ 
